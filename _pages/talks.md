@@ -1,0 +1,5 @@
+- Invited Talk at NSE Talent Sprint ADSMI-Cohort, 2024 at IIT Madras 
+- Spotlight Presentation at ECAI-2023
+- Doctoral Consortium Talk at ECAI-2023 
+- Oral Presentation at ACML 2023 
+- Oral Presentation at International Conference on Structural Integrity (ICONS), 2019

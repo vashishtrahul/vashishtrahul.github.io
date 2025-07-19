@@ -33,7 +33,7 @@ During my internship with the **Last Mile team at Amazon India**, I explored a n
 
 ---
 
-### 🔍 Research Interests
+### Research Interests
 - Attention Mechanisms
 - Optimisation in Deep Learning
 - Gaussian Processes 

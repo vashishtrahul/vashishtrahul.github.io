@@ -1,3 +1,10 @@
+---
+layout: single
+title: "Talks"
+permalink: /talks/
+author_profile: true
+---
+
 - Invited Talk at NSE Talent Sprint ADSMI-Cohort, 2024 at IIT Madras 
 - Spotlight Presentation at ECAI-2023
 - Doctoral Consortium Talk at ECAI-2023 

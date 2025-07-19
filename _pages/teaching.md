@@ -14,3 +14,9 @@ I have been a teaching assistant (TA) for the following courses :
 - Advances in Theory of Deep learning taught by Dr. Harish G. Ramaswamy (Jan 2023 - Jun 2023) 
 
 I have been a instructor for Online B.S. Degree Program at IIT Madras from Dec 2023 to July 2025 with Prof. Vineeth Balasubramanian (IIT Hyderabad) for Deep Learning for Computer Vision Course (DLCV). 
+
+
+### Mentoring 
+- Mentored a student intern under supervision of Dr. Arun Rajkumar, Dr. Harish G. Ramaswamy, and Dr. Chandrashekhar LakshmiNarayanan.
+
+- Mentored a project assistant for Online B.S. Degree program for Image Processing for Online Examination Project.

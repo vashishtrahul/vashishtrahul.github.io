@@ -20,7 +20,7 @@ Rahul Vashisht, H. Viji, T. Sundararajan, D. Mohankumar & S. Sumitra  ([link](ht
 
 ## Workshop
 - Impact of Label Noise on Learning Complex Features in <b>Neurips-Sci-DL</b> (2024) <br/>
-Rahul Vashisht, P. Krishna, HV Govind, Harish G. Ramaswamy ([link](https://arxiv.org/pdf/2411.04569?))<br/>
+Rahul Vashisht*, P. Krishna*, HV Govind*, Harish G. Ramaswamy ( ∗ denotes equal contribution) ([link](https://arxiv.org/pdf/2411.04569?))<br/>
 
 - Using noise resilience for ranking generalization of deep neural networks <b>Neurips PGDL Competition</b> (2020) <br/>
 Depen Morwani, Rahul Vashisht, Harish G. Ramaswamy ([link](https://arxiv.org/pdf/2012.08854))<br/>

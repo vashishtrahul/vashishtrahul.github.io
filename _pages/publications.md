@@ -7,10 +7,10 @@ author_profile: true
 
 
 ## Conference
-<!--- Effect of Learning Rates and Parameterisation on Interpretability of Transformers - <b>AAAI (Under Review)</b> (2025) <br/> -->
-Rahul Vashisht, Harish G. Ramswamy, ([link]())<br/>
+<!--- Effect of Learning Rates and Parameterisation on Interpretability of Transformers - <b>AAAI (Under Review)</b> (2025) <br/>
+Rahul Vashisht, Harish G. Ramswamy, ([link]())<br/>  -->
 - Transformers with sparse attention for granger causality - <b>CODS-COMAD</b> (2024) <br/>
-Riya Mahesh, Rahul Vashishy, Chandrashekar Lakshminarayanan ([link]())<br/>
+Riya Mahesh, Rahul Vashisht, Chandrashekar Lakshminarayanan ([link]())<br/>
 - On the learning Dynamics of Attention Networks - <b>ECAI</b> (2023) <br/>
 Rahul Vashisht, Harish G. Ramaswamy ([link](https://ebooks.iospress.nl/doi/10.3233/FAIA230541))<br/>
 - On the Interpretability of Attention Networks <b>ACML</b> (2023) <br/>

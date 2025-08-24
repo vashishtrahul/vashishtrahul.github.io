@@ -260,6 +260,11 @@ permalink: /:categories/:title/
 timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
+kramdown:
+  math_engine: mathjax
+  math_engine_opts: 
+    preview: true
+
 # Plugins
 plugins:
   - jekyll-paginate

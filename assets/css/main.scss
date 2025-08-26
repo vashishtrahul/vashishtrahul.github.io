@@ -40,3 +40,9 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* --- custom overrides go below this line --- */
+
+/* Make "wide" pages actually span the full content width when no author sidebar is shown */
+.page--wide .page__content { max-width: 100%; }
+.page--wide .page__inner-wrap { max-width: 100%; }

@@ -7,8 +7,8 @@ author_profile: true
 
 
 ## Conference
-Decoupling Representational Similarity from Functional Computation in Transformer Decoders - <b> Under Review</b> (2026) <br/> Rahul Vashisht ([link]()) <br/> 
-Faster Query-Key Learning Sharpens Attention in Self-Attention Models - <b>Accepted at ICML 2026</b>   <br/> Rahul Vashisht, Harish G, Ramaswamy   ([link]())<br/>
+- Decoupling Representational Similarity from Functional Computation in Transformer Decoders - <b> Under Review</b> (2026) <br/> Rahul Vashisht ([link]()) <br/> 
+- Faster Query-Key Learning Sharpens Attention in Self-Attention Models - <b>Accepted at ICML 2026</b>   <br/> Rahul Vashisht, Harish G, Ramaswamy   ([link]())<br/>
 <!--- Effect of Learning Rates and Parameterisation on Interpretability of Transformers - <b>AAAI (Under Review)</b> (2025) <br/>
 Rahul Vashisht, Harish G. Ramswamy, ([link]())<br/>  -->
 - Transformers with sparse attention for granger causality - <b>CODS-COMAD</b> (2024) <br/>
